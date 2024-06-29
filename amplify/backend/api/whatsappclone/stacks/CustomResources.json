@@ -1,5 +1,5 @@
 {
-  "AWSTemplateFormatVersion": "2010-09-09",
+  "AWSTemplateFormatVersion": "",
   "Description": "An auto-generated nested stack.",
   "Metadata": {},
   "Parameters": {
